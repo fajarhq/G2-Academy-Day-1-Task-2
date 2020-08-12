@@ -1,4 +1,4 @@
-const pages = ["homePage", "skillPage", "portfolioPage", "blogPage", "contactPage"]
+const pages = ["careerPage", "joinPage"]
 
 function changePageTo(idPage) {
     for (let i = 0; i < pages.length; i++) {
@@ -10,4 +10,4 @@ function changePageTo(idPage) {
         page.add('hide-page')
     } 
 }
-changePageTo("homePage")
+changePageTo("careerPage")
