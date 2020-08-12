@@ -1,0 +1,15 @@
+.jumbotron {
+  background: linear-gradient(39.41deg,#00349b -38.24%,rgba(0,92,255,.921875) 34.47%,#007aff 104.22%),url("images/pexels-canva-studio-3153198.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  color: #fff;
+  padding: 100px 25px;
+  font-family: Montserrat, sans-serif;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
